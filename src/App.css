@@ -31,7 +31,7 @@
   font-family: bold;
 }
 
-.search input [type=text] {
+.search input [type=submit] {
   width: 80%;
   height: 40px;
   cursor: pointer;
