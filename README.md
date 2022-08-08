@@ -18,7 +18,7 @@ Web site que informa a previsão do tempo do local desejado. Foi usado a API do 
 <br>
 Concluido
 
-##funcionalidades-e-demonstração-da-aplicação
+## funcionalidades-e-demonstração-da-aplicação
 
 No Campo do "search" informa a cidade que ira trazer o tempo atual junto com uma imagem.
 
